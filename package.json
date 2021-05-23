@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "name": "site_details_server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paridhi-kasliwal/site_details_Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paridhi-kasliwal/site_details_Server/issues"
+  },
+  "homepage": "https://github.com/paridhi-kasliwal/site_details_Server#readme",
+  "description": ""
+}

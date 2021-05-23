@@ -1,0 +1,81 @@
+{
+  "domains": [
+    {
+      "id": 1,
+      "domain": "xyz.com",
+      "storage": 100,
+      "usedStorage": 50,
+      "domainTag": "Primary",
+      "status": "Active",
+      "availableDomains": 10,
+      "usedDomains": 4,
+      "monthlyVisitorCapacity": 10000,
+      "montlyVisitor": 900,
+      "subdomain": [
+        {
+          "id": 11,
+          "name": "abc.xyz.com",
+          "usedStorage": 10,
+          "domainTag": "Staging",
+          "montlyVisitor": 700,
+          "status": "Active"
+        },
+        {
+          "id": 12,
+          "name": "adef.xyz.com",
+          "usedStorage": 40,
+          "domainTag": "Add-On",
+          "montlyVisitor": 1100,
+          "status": "Active"
+        },
+        {
+          "id": 13,
+          "name": "efg.xyz.com",
+          "usedStorage": 30,
+          "domainTag": "Primary",
+          "montlyVisitor": 1500,
+          "status": "Active"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "domain": "abc.com",
+      "storage": 100,
+      "usedStorage": 70,
+      "domainTag": "Primary",
+      "subdomain": [],
+      "status": "Inactive",
+      "availableDomains": 10,
+      "usedDomains": 1,
+      "monthlyVisitorCapacity": 10000,
+      "montlyVisitor": 2000
+    },
+    {
+      "id": 3,
+      "domain": "def.com",
+      "storage": 100,
+      "usedStorage": 30,
+      "domainTag": "Primary",
+      "subdomain": [],
+      "status": "Inactive",
+      "availableDomains": 10,
+      "usedDomains": 1,
+      "monthlyVisitorCapacity": 10000,
+      "montlyVisitor": 7000
+    },
+    {
+      "id": 4,
+      "domain": "ghi.com",
+      "storage": 100,
+      "usedStorage": 80,
+      "domainTag": "Primary",
+      "subdomain": [],
+      "status": "Inactive",
+      "availableDomains": 10,
+      "usedDomains": 1,
+      "monthlyVisitorCapacity": 10000,
+      "montlyVisitor": 5000
+    }
+  ]
+}
